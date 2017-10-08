@@ -5,7 +5,7 @@
 * Front-end using HTML, CSS , Semantic UI.
 * Semantic UI is the Front-end Framework.(Like Bootstrap)
 * Javascript is used for blog post loop.
-* Functions:
+* Features:
     1. Can create new Blog post.
     2. Can edit Blog post.
     3. Can delete Blog post.
