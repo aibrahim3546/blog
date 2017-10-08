@@ -1,0 +1,22 @@
+i.icon{
+    font-size: 2em;
+}
+
+.container.main{
+  margin-top: 70px;
+}
+
+#delete{
+  display: inline;
+}
+
+.ui.divided.items>.item {
+    border-top: 1px solid rgba(34,36,38,.15);
+    margin: 10px 0;
+    padding: 1em 0;
+}
+.ui.basic.violet.button, .ui.basic.violet.buttons .button {
+    box-shadow: 0 0 0 1px #6435c9 inset!important;
+    color: #6435c9!important;
+    margin-top: 10px;
+}
