@@ -11,5 +11,3 @@
     2. Can edit Blog post.
     3. Can delete Blog post.
     4. All post are saved to the database(MongoDB).
-* Image: 
-![alt text](https://aibrahim3546.github.io/images/p6.png)
